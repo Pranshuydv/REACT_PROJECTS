@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "React for Beginners",
+    "description": "Learn the fundamentals of React including components, props, and state.",
+    "image": "/images/react-courses.jpg"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Essentials",
+    "description": "Master the core concepts of JavaScript with practical examples.",
+    "image": "/images/javascript-courses.jpg"
+  },
+  {
+    "id": 3,
+    "title": "HTML & CSS Bootcamp",
+    "description": "Design beautiful and responsive websites using HTML5 and CSS3.",
+    "image": "/images/html-css-courses.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Tailwind CSS Mastery",
+    "description": "Build fast and responsive UIs with utility-first Tailwind CSS.",
+    "image": "/images/tailwind-css-courses.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Frontend Development",
+    "description": "Complete front-end training covering UI, UX, and frameworks.",
+    "image": "/images/frontend-courses.jpg"
+  }
+]

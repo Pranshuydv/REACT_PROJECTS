@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "ReactJS Bootcamp 2025",
+        "description": "Master React fundamentals and build real-world projects with mentors.",
+        "date": "2025-07-10",
+        "location": "Online",
+        "image": "/images/event-react.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Full-Stack Developer Summit",
+        "description": "A 3-day event covering frontend, backend, and deployment best practices.",
+        "date": "2025-08-01",
+        "location": "Delhi, India",
+        "image": "/images/event-fullstack.jpg"
+    },
+   
+    {
+        "id": 3,
+        "title": "CSS Art & Animation Workshop",
+        "description": "Hands-on CSS animation, transitions, and creative designs.",
+        "date": "2025-07-20",
+        "location": "Bangalore, India",
+        "image": "/images/event-css.jpg"
+    },
+    {
+        "id": 4,
+        "title": "AI for Web Developers",
+        "description": "Integrating AI APIs and tools with modern web development.",
+        "date": "2025-08-12",
+        "location": "Mumbai, India",
+        "image": "/images/event-ai.jpg"
+    },
+  
+    {
+        "id": 5,
+        "title": "UI/UX Design Conference",
+        "description": "Explore the latest trends in UI and UX with top designers.",
+        "date": "2025-07-25",
+        "location": "Chennai, India",
+        "image": "/images/event-uiux.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Node.js & Tailwind Advanced Workshop",
+        "description": "Combine performance and styling in modern full-stack apps.",
+        "date": "2025-08-05",
+        "location": "Online",
+        "image": "/images/event-node-js.jpg"
+    }
+]

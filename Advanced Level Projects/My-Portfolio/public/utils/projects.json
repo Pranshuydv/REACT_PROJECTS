@@ -1,0 +1,38 @@
+[
+    {
+        "title": "BOOTSTRAP_PROJECTS",
+        "description": "Collection of responsive web pages built with Bootstrap.",
+        "tech": "HTML, CSS, Bootstrap",
+        "link": "https://github.com/Pranshuydv/BOOTSTRAP_PROJECTS"
+    },
+    {
+        "title": "HTML_CSS_PROJECTS",
+        "description": "Various static websites built using HTML and CSS.",
+        "tech": "HTML, CSS",
+        "link": "https://github.com/Pranshuydv/HTML_CSS_PROJECTS"
+    },
+    {
+        "title": "JQUERY_PROJECTS",
+        "description": "Interactive UI components and small apps powered by jQuery.",
+        "tech": "HTML, CSS, jQuery",
+        "link": "https://github.com/Pranshuydv/JQUERY_PROJECTS"
+    },
+    {
+        "title": "JAVASCRIPT_PROJECTS",
+        "description": "Dynamic web apps built using vanilla JavaScript.",
+        "tech": "HTML, CSS, JavaScript",
+        "link": "https://github.com/Pranshuydv/JAVASCRIPT_PROJECTS"
+    },
+    {
+        "title": "Woman-s-Villa",
+        "description": "Responsive landing page for ‘Woman’s Villa’, built with HTML/CSS.",
+        "tech": "HTML, CSS",
+        "link": "https://github.com/Pranshuydv/Woman-s-Villa"
+    },
+    {
+        "title": "Tasty-Bites",
+        "description": "Restaurant landing page created with HTML and CSS.",
+        "tech": "HTML, CSS",
+        "link": "https://github.com/Pranshuydv/Tasty-Bites"
+    }
+]

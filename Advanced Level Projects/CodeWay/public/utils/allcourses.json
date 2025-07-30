@@ -1,0 +1,255 @@
+[
+    {
+        "id": 1,
+        "title": "React for Beginners",
+        "category": "Frontend",
+        "duration": "4 weeks",
+        "image": "/public/images/react-courses.jpg",
+        "instructor": "John Smith",
+        "level": "Beginner"
+    },
+    {
+        "id": 2,
+        "title": "JavaScript Essentials",
+        "category": "Programming",
+        "duration": "6 weeks",
+        "image": "/public/images/javascript-courses.jpg",
+        "instructor": "Jane Doe",
+        "level": "Intermediate"
+    },
+    {
+        "id": 3,
+        "title": "HTML & CSS Bootcamp",
+        "category": "Frontend",
+        "duration": "3 weeks",
+        "image": "/public/images/html-css-courses.jpg",
+        "instructor": "Amit Verma",
+        "level": "Beginner"
+    },
+    {
+        "id": 4,
+        "title": "Python for Everyone",
+        "category": "Programming",
+        "duration": "5 weeks",
+        "image": "/public/images/Python-courses.jpg",
+        "instructor": "Anjali Mehta",
+        "level": "Beginner"
+    },
+    {
+        "id": 5,
+        "title": "Tailwind CSS Mastery",
+        "category": "Design",
+        "duration": "2 weeks",
+        "image": "/public/images/tailwind-css-courses.jpg",
+        "instructor": "Suresh Patel",
+        "level": "Advanced"
+    },
+    {
+        "id": 6,
+        "title": "Full Stack Development",
+        "category": "Full Stack",
+        "duration": "8 weeks",
+        "image": "/public/images/full-stack-courses.jpg",
+        "instructor": "Ritika Sharma",
+        "level": "Advanced"
+    },
+    {
+        "id": 7,
+        "title": "Node.js with Express",
+        "category": "Backend",
+        "duration": "5 weeks",
+        "image": "/public/images/event-node-js.jpg",
+        "instructor": "Raj Malhotra",
+        "level": "Intermediate"
+    },
+    {
+        "id": 8,
+        "title": "MongoDB Basics",
+        "category": "Database",
+        "duration": "3 weeks",
+        "image": "/public/images/mongodb-courses.webp",
+        "instructor": "Deepa Roy",
+        "level": "Beginner"
+    },
+    {
+        "id": 9,
+        "title": "TypeScript Crash Course",
+        "category": "Programming",
+        "duration": "2 weeks",
+        "image": "/public/images/typescript-course.jpg",
+        "instructor": "Nikhil Jain",
+        "level": "Intermediate"
+    },
+    {
+        "id": 10,
+        "title": "UI/UX Design Fundamentals",
+        "category": "Design",
+        "duration": "4 weeks",
+        "image": "/public/images/ui-ux-course.jpg",
+        "instructor": "Pooja Kapoor",
+        "level": "Beginner"
+    },
+    {
+        "id": 11,
+        "title": "Django for Web Development",
+        "category": "Backend",
+        "duration": "6 weeks",
+        "image": "/public/images/django-course.png",
+        "instructor": "Ravi Bansal",
+        "level": "Intermediate"
+    },
+    {
+        "id": 12,
+        "title": "Git & GitHub Masterclass",
+        "category": "Tools",
+        "duration": "1 week",
+        "image": "/public/images/git-course.jpg",
+        "instructor": "Sana Qureshi",
+        "level": "Beginner"
+    },
+    {
+        "id": 13,
+        "title": "API Integration with Postman",
+        "category": "Tools",
+        "duration": "2 weeks",
+        "image": "/public/images/api-postman-course.webp",
+        "instructor": "Zaid Khan",
+        "level": "Beginner"
+    },
+    {
+        "id": 14,
+        "title": "Firebase Essentials",
+        "category": "Backend",
+        "duration": "3 weeks",
+        "image": "/public/images/firebase-course.png",
+        "instructor": "Meena Joshi",
+        "level": "Intermediate"
+    },
+    {
+        "id": 15,
+        "title": "Responsive Web Design",
+        "category": "Frontend",
+        "duration": "2 weeks",
+        "image": "/public/images/responsive-design.jpg",
+        "instructor": "Ankit Sharma",
+        "level": "Beginner"
+    },
+    {
+        "id": 16,
+        "title": "Next.js for Production",
+        "category": "Full Stack",
+        "duration": "6 weeks",
+        "image": "/public/images/nextjs-course.webp",
+        "instructor": "Kavita Singh",
+        "level": "Advanced"
+    },
+    {
+        "id": 17,
+        "title": "GraphQL Basics",
+        "category": "API",
+        "duration": "3 weeks",
+        "image": "/public/images/graphql-course.jpg",
+        "instructor": "Naina Arora",
+        "level": "Intermediate"
+    },
+    {
+        "id": 18,
+        "title": "C++ Programming",
+        "category": "Programming",
+        "duration": "5 weeks",
+        "image": "/public/images/cpp-course.jpg",
+        "instructor": "Rahul Sinha",
+        "level": "Beginner"
+    },
+    {
+        "id": 19,
+        "title": "Java Fundamentals",
+        "category": "Programming",
+        "duration": "6 weeks",
+        "image": "/public/images/java-course.webp",
+        "instructor": "Swati Pandey",
+        "level": "Beginner"
+    },
+    {
+        "id": 20,
+        "title": "DevOps with Docker",
+        "category": "DevOps",
+        "duration": "4 weeks",
+        "image": "/public/images/docker-course.png",
+        "instructor": "Harsh Chauhan",
+        "level": "Intermediate"
+    },
+    {
+        "id": 21,
+        "title": "Kubernetes 101",
+        "category": "DevOps",
+        "duration": "4 weeks",
+        "image": "/public/images/kubernetes-course.jpg",
+        "instructor": "Ishita Jain",
+        "level": "Intermediate"
+    },
+    {
+        "id": 22,
+        "title": "SQL Masterclass",
+        "category": "Database",
+        "duration": "3 weeks",
+        "image": "/public/images/sql-course.webp",
+        "instructor": "Vipin Kaul",
+        "level": "Beginner"
+    },
+    {
+        "id": 23,
+        "title": "Data Structures in JavaScript",
+        "category": "Programming",
+        "duration": "4 weeks",
+        "image": "/public/images/dsa-js-course.jpg",
+        "instructor": "Riya Shah",
+        "level": "Intermediate"
+    },
+    {
+        "id": 24,
+        "title": "Machine Learning Basics",
+        "category": "AI/ML",
+        "duration": "5 weeks",
+        "image": "/public/images/ml-course.webp",
+        "instructor": "Dr. Rakesh Rana",
+        "level": "Beginner"
+    },
+    {
+        "id": 25,
+        "title": "Cyber Security 101",
+        "category": "Security",
+        "duration": "3 weeks",
+        "image": "/public/images/cyber-security-course.jpg",
+        "instructor": "Priya Menon",
+        "level": "Beginner"
+    },
+    {
+        "id": 26,
+        "title": "AWS Cloud Fundamentals",
+        "category": "Cloud",
+        "duration": "6 weeks",
+        "image": "/public/images/aws-course.png",
+        "instructor": "Karan Oberoi",
+        "level": "Intermediate"
+    },
+    {
+        "id": 27,
+        "title": "Linux Shell Scripting",
+        "category": "Operating System",
+        "duration": "3 weeks",
+        "image": "/public/images/linux-course.webp",
+        "instructor": "Neha Thakur",
+        "level": "Beginner"
+    },
+    {
+        "id": 28,
+        "title": "Content Writing for Web",
+        "category": "Content",
+        "duration": "2 weeks",
+        "image": "/public/images/content-writing-course.webp",
+        "instructor": "Geetika Ghosh",
+        "level": "Beginner"
+    }
+   
+]
